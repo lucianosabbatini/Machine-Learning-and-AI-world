@@ -1,7 +1,7 @@
-core of the persentation:
+Summarize:
 
 
-How to Stop Robots From Becoming Racist
+# How to Stop Robots From Becoming Racist
 
 As AI becomes more prevalent in our lives, it is important to address the issue of biased algorithms. While AI can be a useful tool, it can also reproduce historical racist biases. Researchers have found evidence of this in an experiment where AI systems were shown to discriminate against people of certain races.
 
